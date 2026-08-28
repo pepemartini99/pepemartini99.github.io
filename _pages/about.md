@@ -19,7 +19,7 @@ My background is in theoretical and mathematical physics: I graduated with honor
 
 Academic interests
 ------
-I am interested in problems of mathematical physics which can be approached combining techniques from different fields, like differential geometry and the theory of differential equations. 
+I am interested in problems of mathematical physics which can be approached combining techniques from different fields, like differential geometry, topology and the theory of differential equations. 
 
 
 
