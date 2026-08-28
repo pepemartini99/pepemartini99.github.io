@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "About me"
+  name             : "Essential Info"
   pronouns         : # example: "she/her"  
   bio              : "I am a mathematician using PDE tools to investigate problems in General Relativity"
   location         : "L'Aquila, Abruzzo, Italy"
