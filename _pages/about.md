@@ -19,10 +19,14 @@ My background is in theoretical and mathematical physics: I graduated with honor
 
 Academic interests
 ------
+I am interested in problems of mathematical physics which can be approached combining techniques from different fields, like differential geometry and the theory of differential equations. 
 
 
-Create content & metadata
+
+Personal interests
 ------
+In my private time I enjoy learning about the history of mathematical sciences (expecially from the Hellenistic era), reading fantasy books, and practicing martial arts and combat sports.
+
 
 
 **Markdown generator**
