@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierfrancesco Martini | Math"
+title: "Hi! I am Pier, and this is my personal page"
 author_profile: true
 redirect_from: 
   - /about/
