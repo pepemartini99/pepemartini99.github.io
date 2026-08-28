@@ -82,26 +82,6 @@ Website: https://www.uniroma1.it/it/pagina-strutturale/home
 Academic Pursuits
 ======
 
-### Tutor of the course "Fundamentals of Mathematics part II (Linear Algebra and Vector Analysis)", for the degree course in Chemical Sciences, at Sapienza University
-*03/2023 – 07/2023*
-
-Winner of the call n. 33/2022, Rep. n. 223/2022, Prot. n. 3138/V/1 for Master Degree students.
-
-<br>
-
-### Tutor of the courses "Geometry" and "Mathematical Analysis", for the degree course in Civil and Industrial Engineering, at Sapienza University
-*09/2022 – 02/2023*
-
-Winner of the call Rep. n. 476/2022, Prot. n. 2609/04-08-2022 for Master Degree students.
-
-<br>
-
-### Tutor of the Course of "Physics I (Classical Mechanics with Laboratory)", for the degree course in Chemical Sciences, at Sapienza University
-*03/2022 – 09/2022*
-
-Winner of the call DD N. 15/2022, Prot. n. 141/24-01-2022 for Master Degree students.
-
-<br>
 
 ### Laboratory Activity at INFN (Istituto Nazionale di Fisica Nucleare) regarding the CYGNO project for Dark Matter Direct Search
 *03/2022 – 07/2022*
