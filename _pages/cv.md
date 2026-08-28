@@ -47,7 +47,7 @@ Website: https://www.uniroma1.it/it/pagina-strutturale/home
   - Physics
   - Mathematics
 - Final grade: **110/110 cum Laude**
-- Thesis: *Topological transport in flat bands*
+- Thesis: *Topological transport in flat bands - A Mathematical Approach*
   - Advisor: Prof. Gianluca Panati
   - Co-advisor: Prof. Domenico Monaco
 
