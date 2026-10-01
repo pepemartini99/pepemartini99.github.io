@@ -30,5 +30,3 @@ In my private time I enjoy learning about the history of mathematical sciences (
 
 
 
-**Markdown generator**
-
