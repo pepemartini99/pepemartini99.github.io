@@ -1,6 +1,5 @@
 ---
-title: "The Maxwell equations on Myers–Perry spacetimes: The Schwarzschild–
-Tangherlini case"
+title: "The Maxwell equations on Myers–Perry spacetimes: The Schwarzschild–Tangherlini case"
 collection: publications
 permalink: /publication/Martini2026
 venue: "arXiv preprint"
