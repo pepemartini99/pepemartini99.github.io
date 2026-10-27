@@ -20,7 +20,7 @@ My background is in theoretical and mathematical physics: I graduated with honor
 
 Academic interests
 ------
-My main research interest are problems from physics which can be approached combining techniques from different fields of mathematics, like the theory of differential equations, differential geometry and topology. My current research project focuses on the stability of higher dimensional black hole spacetimes, and in how studying linear systems of hyperbolic PDEs can be helpful to understand this problem.
+My research revolves around the mathematical analysis of nonlinear partial differential equations, in particular the ones arising from physics. My primary interest lies in the analysis of Einstein's equations of general relativity. My current research project focuses on the stability of higher dimensional black hole spacetimes, and in how studying linear systems of hyperbolic PDEs can be helpful to understand this problem.
 
 
 
