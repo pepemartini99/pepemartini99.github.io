@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Martini2026
 venue: "arXiv preprint"
-date: 2026-11-00
+date: 2026-11-30
 citation: "P. Martini, The Maxwell equations on Myers–Perry spacetimes: The Schwarzschild–Tangherlini case, in preparation."
 ---
 
