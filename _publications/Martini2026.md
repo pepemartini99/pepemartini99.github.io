@@ -3,7 +3,7 @@ title: "The Maxwell equations on Myers–Perry spacetimes: The Schwarzschild–
 Tangherlini case"
 collection: publications
 permalink: /publication/Martini2026
-date: 2026-XX-XX
+date: 2026-11-09
 venue: "arXiv preprint"
 citation: 'P. Martini, The Maxwell Equations on Myers-Perry Black Holes, in preparation.'
 ---
