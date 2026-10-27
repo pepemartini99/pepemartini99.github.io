@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Martini2026
 venue: "arXiv preprint"
+date: 2026-11-00
 citation: "P. Martini, The Maxwell equations on Myers–Perry spacetimes: The Schwarzschild–Tangherlini case, in preparation."
 ---
 
@@ -13,7 +14,6 @@ The present work initiates a series of papers proving uniform boundedness and de
 of the Myers–Perry metric, with the unknowns treated as tensorial quantities associated with a non-integrable horizontal distribution. Contrary to Kerr spacetimes, on which the extremal Maxwell components decouple into Teukolsky equations, none of the Maxwell components is known to decouple from the rest of the system on Myers–Perry spacetimes when |a|, |b| > 0. The analytical difficulties originating from the lack of decoupling are the main novelty of the problem and will be addressed
 in the sequel of the series. As a primer, in this work we specialise the system of equations to the Schwarzschild–Tangherlini (a = b = 0) case and prove uniform boundedness and decay of solutions. While the decoupling of the extremal Maxwell components already fails in this case, the middle Maxwell components decouple into wave-like equations and can be analysed independently from the rest of the system.
 
-...
 
 ## Links
 
