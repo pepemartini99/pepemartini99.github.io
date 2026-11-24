@@ -18,7 +18,10 @@ main:
     url: /teaching/    
 
   - title: "Teaching Material"
-    url: /teaching-material/ 
+    url: /teaching-material/
+
+  - title: "Outreach"
+    url: /outreach/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
